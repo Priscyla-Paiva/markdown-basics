@@ -1,10 +1,10 @@
-Noções básicas de remarcação.
+#Noções básicas de remarcação.
 
-Markdown permite-lhe escrever usando um fácil de ler, fácil de escrever formato de texto simples, que então se converte em HTML válida para visualização no GitHub.
+[Markdown] () permite-lhe escrever usando um fácil de ler, fácil de escrever formato de texto simples, que então se converte em HTML válida para visualização no GitHub.
 
-Escrita básica
+##Escrita básica
 
-Paráfrafos
+###Paráfrafos
 
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos seguido por uma ou mais linhas em branco.
 
@@ -12,23 +12,23 @@ Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado
 
 Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Hornets, participou de um assalto em um destroyer perto da cidade de Los Angeles.
 
-Cabeçalhos
+###Cabeçalhos
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho
 
 # O maior título (una tag <h1>)
 ## A segunda rubrica 6 (um <h6> tag)
 
-Blockquotes
+###Blockquotes
 
-Você pode indicar blockquotes com um >.
+Você pode indicar [blockquotes] com um >.
 
 Nas palavras de Abraham Lincoln:
 > Pardon My French
 
-Texto Styling
+###Texto Styling
 
-Você pode fazer o texto em negrito ou itálico .
+Você pode fazer o texto [**em negrito**]() ou [itálico].
 
 * Este texto será itálico *
 ** Este texto vai ser ousado **
@@ -37,9 +37,9 @@ Ambos negrito e itálico pode usar um * ou um _ em torno do texto para o estilo.
 
 ** Todos _deve_ participar da reunião às 5 horas de hoje. **
 
-Listas
+##Listas
 
-Listas não ordenadas
+###Listas não ordenadas
 
 Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou um - .
 
@@ -51,7 +51,7 @@ Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou 
 - Artigo
 - Artigo
 
-Listas ordenadas
+###Listas ordenadas
 
 Você pode fazer uma lista ordenada precedendo itens da lista com um número.
 
@@ -59,7 +59,7 @@ Você pode fazer uma lista ordenada precedendo itens da lista com um número.
 2. O artigo 2
 3. O artigo 3
 
-Listas aninhadas
+###Listas aninhadas
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
@@ -72,17 +72,17 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
     * Você pode querer considerar fazer uma nova lista.
 3. O artigo 3
 
-A formatação do código
+##A formatação do código
 
-Formatos em linha
+###Formatos em linha
 
 Use backticks simples (`) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 
 Aqui está uma idéia: por que não vamos tomar 'SuperiorProject' e transformá-lo em' ** ** project' razoável.
 
-Várias linhas
+###Várias linhas
 
-Você pode usar acentos graves triplos ('' ') para formatar o texto como seu próprio bloco distinta.
+Você pode usar acentos graves triplos (`` `) para formatar o texto como seu próprio bloco distinta.
 
 Confira este programa limpo eu escrevi:
 
@@ -92,8 +92,8 @@ x = 2 + 2
 o que é x
 '' '
 
-Links
+##Links
 
 Você pode criar uma ligação em linha por envolvimento link texto entre colchetes ([]), e, em seguida, envolver a ligação entre parênteses (()).
 
-Por exemplo, para criar um hiperlink para www.github.com , com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (www.github.com).
+Por exemplo, para criar um hiperlink para [www.github.com] (), com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (www.github.com).
