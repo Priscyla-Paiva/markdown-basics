@@ -16,24 +16,30 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho
 
-# O maior título (una tag <h1>)
-## A segunda rubrica 6 (um <h6> tag)
+<code>#<code> O maior título (una h1 tag )
+
+<code>##<code> O segundo maior título  (um h2 tag)
+
+...
+
+<code>######<code>O sexto maior título (um h6 tag)
+
 
 ###Blockquotes
 
-Você pode indicar [blockquotes] com um >.
+Você pode indicar [blockquotes] () com um >.
 
 Nas palavras de Abraham Lincoln:
 > Pardon My French
 
 ###Texto Styling
 
-Você pode fazer o texto [**em negrito**]() ou [itálico].
+Você pode fazer o texto [**em negrito**]() ou [_itálico_] ().
 
 * Este texto será itálico *
 ** Este texto vai ser ousado **
 
-Ambos negrito e itálico pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combinar os dois em negrito e itálico, se necessário.
+Ambos **negrito** e _itálico_ pode usar um * ou um _ em torno do texto para o estilo. Isso permite que você combinar os dois em negrito e itálico, se necessário.
 
 ** Todos _deve_ participar da reunião às 5 horas de hoje. **
 
@@ -41,7 +47,7 @@ Ambos negrito e itálico pode usar um * ou um _ em torno do texto para o estilo.
 
 ###Listas não ordenadas
 
-Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou um - .
+Você pode fazer uma [lista desordenada] () precedendo itens da lista ou com um * ou um - .
 
 * Item
 * Item
@@ -53,7 +59,7 @@ Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou 
 
 ###Listas ordenadas
 
-Você pode fazer uma lista ordenada precedendo itens da lista com um número.
+Você pode fazer uma [lista ordenada] () precedendo itens da lista com um número.
 
 1. Item 1
 2. O artigo 2
